@@ -66,6 +66,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * PostgreSQL
 * Virtual Studio Code
 * Github
+* Docker Desktop
 
 ## 📌 Versão
 
