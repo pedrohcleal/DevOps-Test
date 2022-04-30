@@ -76,7 +76,7 @@ Pedro Leal
 ## 🎁 Expressões de gratidão
 
 * A minha experiência com esse projeto foi inovadora, puder conhecer na prática a principal ferramente utilizada por DevOps, o Docker
-* Aprofundeu conhecimento sobre Python com a sua biblioteca Django para implementação WEB
+* Aprofundei meu conhecimento sobre Python com a sua biblioteca Django para implementação WEB
 * Obtive um maior entendimento sobre o uso do Github para versionamento e sincronização de código
 * Soube de boas práticas de DevOps com o uso do Continuous Integration e Continuos Delivery, afim de aplicar as metodologias ágeis no versionamento de código.
 
