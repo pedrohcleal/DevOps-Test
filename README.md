@@ -1,4 +1,4 @@
-# Projeto devops Frexco
+# Desafio DevOps Frexco
 
 Projeto introdutório para subir uma aplicação(deploy) API em Django + PostgreSQL com a utilização de containers da ferramenta Docker
 
