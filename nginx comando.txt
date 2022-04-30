@@ -1,4 +1,4 @@
-docker container run --name ws1 -p 8080:80 -d nginx
+docker container run --name ws1 -p 8000:80 -d nginx
 
 --name ws1 -> define o nome do conteiner como ws1
 nginx -> nome da imagem usada
