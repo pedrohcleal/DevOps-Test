@@ -25,7 +25,7 @@ Para iniciar a aplicação, é necessário clonar o projeto do GitHub num diret�
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone https://github.com/pedrohcleal/github.git
+git clone https://github.com/pedrohcleal/frexco-desafio-pedro.git
 ```
 
 Após clonar, execute os seguintes passos:
@@ -83,7 +83,7 @@ Pedro Leal
 
 * A minha experiência com esse projeto foi de abrir menter, puder conhecer na prática uma das principais ferramentas utilizadas por DevOps como o Docker
 * aprofundei ainda mais meu conhecimento sobre Python e sua biblioteca Django para implementação WEB
-* Obtive um maior entendimento sobre o uso do Github para versionamento e sincronização
+* Obtive um maior entendimento sobre o uso do Github para versionamento e sincronização de código
 * Soube de boas práticas com o uso do Continuous Integration e Continuos Delivery, afim de aplicar as metodologias ágeis no versionamento de código.
 
 ---
