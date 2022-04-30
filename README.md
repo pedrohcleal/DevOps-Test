@@ -65,10 +65,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 * Virtual Studio Code
 * Github
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
 ## 📌 Versão
 
 Primeira Versão
