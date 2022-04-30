@@ -15,6 +15,7 @@ Django -> executar comando ```shell pip install django ```
 PostGreeSQL -> https://www.postgresql.org/download/
 Dbeaver -> https://dbeaver.io/download/
 Git -> https://git-scm.com/downloads
+Linux kernel update package -> https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 ```
 
 ### 🔧 Instalação
