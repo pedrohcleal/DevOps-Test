@@ -10,6 +10,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ```
 Docker -> https://docs.docker.com/get-docker/
+Docker Compose -> https://getcomposer.org/download/
 Python -> https://www.python.org/downloads/
 Django -> executar comando ```shell pip install django ```
 PostGreeSQL -> https://www.postgresql.org/download/
