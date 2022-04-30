@@ -6,8 +6,6 @@ Projeto introdutório para subir uma aplicação(deploy) API em Django + Postgre
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **Implantação** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
 ```
@@ -81,10 +79,10 @@ Pedro Leal
 
 ## 🎁 Expressões de gratidão
 
-* A minha experiência com esse projeto foi de abrir menter, puder conhecer na prática uma das principais ferramentas utilizadas por DevOps como o Docker
-* aprofundei ainda mais meu conhecimento sobre Python e sua biblioteca Django para implementação WEB
+* A minha experiência com esse projeto foi inovadora, puder conhecer na prática a principal ferramente utilizada por DevOps, o Docker
+* Aprofundeu conhecimento sobre Python com a sua biblioteca Django para implementação WEB
 * Obtive um maior entendimento sobre o uso do Github para versionamento e sincronização de código
-* Soube de boas práticas com o uso do Continuous Integration e Continuos Delivery, afim de aplicar as metodologias ágeis no versionamento de código.
+* Soube de boas práticas de DevOps com o uso do Continuous Integration e Continuos Delivery, afim de aplicar as metodologias ágeis no versionamento de código.
 
 ---
 Atenciosamente, Pedro Leal
