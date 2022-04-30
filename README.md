@@ -44,11 +44,11 @@ Para verificar se o Django subiu corretamente acesse pelo navegador o seguinte e
 Para verificar se o Nginx subiu corretamente acesse pelo navegador o seguinte endereço: http://localhost:8080/
 
 Para verificar se o banco de dados foi criado corretamente:
-1- Abrir dbeaver
-2- Clique em New Database Connection, escolha PostGreSQL
-3- insira as seguintes informações de server -> Host: localhost port: 5432
-4- insira as credenciais -> username: postgres password: postgres
-5- O banco de dados será aberto em seguida.
+* Abrir dbeaver
+* Clique em New Database Connection, escolha PostGreSQL
+* insira as seguintes informações de server -> Host: localhost port: 5432
+* insira as credenciais -> username: postgres password: postgres
+* O banco de dados será aberto em seguida.
 
 ## 📦 Desenvolvimento
 
